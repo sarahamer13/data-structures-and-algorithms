@@ -15,7 +15,7 @@ class LinkedList:
 
        self.head = None
 
-        ## used multiple resources, class demo, freecodecamp.org, class materials, and chat gbt
+
 
     """ Now we have several methods inside the linked list class
      method insert here insert a node node with a given value, then
